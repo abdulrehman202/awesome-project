@@ -6,7 +6,7 @@ export default function App() {
   console.log("APp executed!");
   return (
     <View style={styles.container}>
-      <Text>This is my first react native app</Text>
+      <Text>Repository created</Text>
       
       <StatusBar style="auto" />
     </View>
